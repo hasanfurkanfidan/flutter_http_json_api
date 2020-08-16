@@ -1,0 +1,63 @@
+[
+  {
+    "araba_adi":"Mercedes",
+    "ülke": "Almanya",
+    "kurulus_tarihi": 1890,
+    "model": [
+      {
+        "model_adi": "A Serisi",
+        "fiyat": 15000,
+        "benzinli": false
+
+      },
+      {
+        "model_adi": "C Serisi",
+        "fiyat": 25000,
+        "benzinli": true
+      }
+
+
+    ]
+  },
+  {
+    "araba_adi":"BMW",
+    "ülke": "Almanya",
+    "kurulus_tarihi": 1940,
+    "model": [
+      {
+        "model_adi": "3 Serisi",
+        "fiyat": 20000,
+        "benzinli": false
+
+      },
+      {
+        "model_adi": "5 Serisi",
+        "fiyat": 35000,
+        "benzinli": true
+      }
+
+
+    ]
+  },
+  {
+    "araba_adi":"Audi",
+    "ülke": "Almanya",
+    "kurulus_tarihi": 1925,
+    "model": [
+      {
+        "model_adi": "A3",
+        "fiyat": 18000,
+        "benzinli": false
+
+      },
+      {
+        "model_adi": "A6",
+        "fiyat": 34000,
+        "benzinli": true
+      }
+
+
+    ]
+  }
+
+]
